@@ -11,7 +11,7 @@ visible the whole time.
 
 ## Requirements
 
-- [MelonLoader](https://melonwiki.xyz/) (tested on v0.7.3 Open-Beta, IL2CPP)
+- [MelonLoader](https://github.com/LavaGang/MelonLoader.Installer) v0.7.3 Open-Beta or later (IL2CPP) - this is the MelonLoader *core* version shown in your game's console on launch, not the installer app's version number.
 
 ## Installation
 
@@ -22,4 +22,4 @@ visible the whole time.
 
 ## License
 
-MIT - do whatever you want with this, just don't blame me if it breaks.
+MIT
