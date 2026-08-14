@@ -12,7 +12,6 @@ visible the whole time.
 ## Requirements
 
 - [MelonLoader](https://melonwiki.xyz/) (tested on v0.7.3 Open-Beta, IL2CPP)
-- Blue Prince v1.1.10.25 (may work on other versions, untested)
 
 ## Installation
 
